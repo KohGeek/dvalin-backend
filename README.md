@@ -7,6 +7,7 @@
 -   [Node 20](https://nodejs.org/)
 -   [pnpm](https://pnpm.io/)
 -   [PostgreSQL](https://www.postgresql.org/)
+-   [Redis](https://redis.io/)
 
 #### Steps:
 
